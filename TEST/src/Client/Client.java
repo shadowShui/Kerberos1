@@ -276,7 +276,7 @@ public class Client {
     	else if (replyAS[0] == MsgTag.REGIST_FAILRD)
     		return "regist failed";
     	else if (replyAS[0] == MsgTag.REGIST_SUCCESS)
-    		return this.getCertificate(id);
+    		return "regist successful";
 
     	return "unknown error";
     }
@@ -356,6 +356,8 @@ public class Client {
     	else if (replyAS[0] != MsgTag.AS_TO_CLIENT)
     		return "as failed, unknown error";
     	
+    	String cer_res = this.getCertificate(id);
+    	
     	byte[] replyTGS = requestTGS(replyAS);
     	
     	if (replyTGS[0] == MsgTag.CONNECT_FAILED)
@@ -378,7 +380,7 @@ public class Client {
     	else if (replyAPPS[0] == MsgTag.REPLY_FAILED)
     		return "pass APPS failed";
     	
-    	return checkAPPS(replyAPPS);
+    	return checkAPPS(replyAPPS) + " " + cer_res;
  
     }
 
@@ -1264,7 +1266,7 @@ public class Client {
 	   	isConnect = this.connectServer(AS_IP, AS_PORT);
 	   	if (!isConnect) {
 	   		this.closeSocket();
-	   		return "get certificate successful failed";
+	   		return "get certificate failed";
 	   	}
 	   	
 	   	byte[] pub_key = this.createKey(usr);
@@ -1288,7 +1290,7 @@ public class Client {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 			this.closeSocket();
-			return "get certificate successful failed";
+			return "get certificate failed";
 		}
 	   	
 	   	// 从AS服务器获取数据
@@ -1303,7 +1305,7 @@ public class Client {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 			this.closeSocket();
-			return "get certificate successful failed";
+			return "get certificate failed";
 		}
 	   	this.closeSocket();
 	   	BigInteger key_b = new BigInteger(key_chiper);

@@ -227,7 +227,7 @@ public class LoginPanel extends javax.swing.JPanel {
     	
     	Log.println(res);
     	
-    	if (res.equals("login successful")) {
+    	if (res.startsWith("login successful")) {
     		
     		mainFrame.setVisible(false);
     		if (this.client.getResendSocket() == "bridge success") {
@@ -235,6 +235,13 @@ public class LoginPanel extends javax.swing.JPanel {
     		} else {
     			JOptionPane.showMessageDialog(null, "登录成功！接收Client文件功能可能无法使用！");
     		}
+    		
+    		if (res.endsWith("get certificate successful")) {
+    			JOptionPane.showMessageDialog(null, "证书获取成功！");
+    		} else {
+    			JOptionPane.showMessageDialog(null, "证书失败！");
+    		}
+    		
     		new FileFrame(mainFrame, client).setVisible(true);
     		return;
     	} else if(res.equals("pass AS failed")) {

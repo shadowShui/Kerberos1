@@ -12,7 +12,7 @@ public class Auth {
 		
 		String[] res = new String[2];
 		res[0] = "true";
-		
+		res[1] = "";
 		res[1] += Time.getCurrentTime() + "\n";
 		res[1] += "对方认证报文: " + auth + "\n";
 		// TODO Auto-generated method stub

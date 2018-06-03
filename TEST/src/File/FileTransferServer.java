@@ -144,6 +144,16 @@ public class FileTransferServer extends ServerSocket {
                 int length = 0;  
                 while((length = dis.read(bytes, 0, bytes.length)) != -1) {  
                 	
+                	while (length < bytes.length) {  
+                    	  
+                        int read = dis.read(bytes, length, bytes.length - length);  
+                       //判断是不是读到了数据流的末尾 ，防止出现死循环。  
+                        if (read == -1) {  
+                            break;  
+                        }  
+                        length += read;  
+                    }  
+                	
                 	// 读不满的需要对长度进行修正，否则DES加密会有问题
                 	if (length != 1024) {
                 		byte[] bytes_t = new byte[length];  
@@ -175,10 +185,15 @@ public class FileTransferServer extends ServerSocket {
                 	name_crypt = name_crypt.substring(0, pos);
                 	
                 	File newFile_crypt = new File(name_crypt);
+                	if (newFile_crypt.exists())
+                		newFile_crypt.delete();
                 	file_crypt.renameTo(newFile_crypt);
             	}
 
                 File newFile = new File(directory.getAbsolutePath() + File.separatorChar + fileName);
+                if (newFile.exists())
+            		newFile.delete();
+                
                 file.renameTo(newFile);
                 
                 String hash = FileHash.md5HashCode32(newFile.getAbsolutePath());

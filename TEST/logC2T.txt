@@ -1468,276 +1468,159 @@
  ts_3: 1527960247
  authenticator_ad_c: 127.0.0.1
  ***************************************************************************************
- Sun Jun 03 08:41:04 CST 2018
- tag: CLIENT_TO_TGS
- id_v: 1
- Key_C_TGS: 888
- id_tgs: 1
- lifetime_2: 8
- ticket_id_c: 4
- ts_2: 1527986462
- ticket_ad_c: 192.168.43.191
- authenticator_id_c: 4
- ts_3: 1527986464
- authenticator_ad_c: 192.168.43.191
- ***************************************************************************************
- Sun Jun 03 08:43:04 CST 2018
- tag: CLIENT_TO_TGS
- id_v: 1
- Key_C_TGS: 888
- id_tgs: 1
- lifetime_2: 8
- ticket_id_c: 2
- ts_2: 1527986581
- ticket_ad_c: 192.168.43.137
- authenticator_id_c: 2
- ts_3: 1527986581
- authenticator_ad_c: 192.168.43.137
- ***************************************************************************************
- Sun Jun 03 08:43:19 CST 2018
- tag: CLIENT_TO_TGS
- id_v: 1
- Key_C_TGS: 888
- id_tgs: 1
- lifetime_2: 8
- ticket_id_c: 3
- ts_2: 1527986597
- ticket_ad_c: 192.168.43.3
- authenticator_id_c: 3
- ts_3: 1527986600
- authenticator_ad_c: 192.168.43.3
- ***************************************************************************************
- Sun Jun 03 08:45:23 CST 2018
- tag: CLIENT_TO_TGS
- id_v: 1
- Key_C_TGS: 888
- id_tgs: 1
- lifetime_2: 8
- ticket_id_c: 5
- ts_2: 1527986721
- ticket_ad_c: 192.168.43.240
- authenticator_id_c: 5
- ts_3: 1527986723
- authenticator_ad_c: 192.168.43.240
- ***************************************************************************************
- Sun Jun 03 08:56:35 CST 2018
- tag: CLIENT_TO_TGS
- id_v: 1
- Key_C_TGS: 888
- id_tgs: 1
- lifetime_2: 8
- ticket_id_c: 2
- ts_2: 1527987393
- ticket_ad_c: 192.168.43.137
- authenticator_id_c: 2
- ts_3: 1527987393
- authenticator_ad_c: 192.168.43.137
- ***************************************************************************************
- Sun Jun 03 08:57:52 CST 2018
- tag: CLIENT_TO_TGS
- id_v: 1
- Key_C_TGS: 888
- id_tgs: 1
- lifetime_2: 8
- ticket_id_c: 2
- ts_2: 1527987470
- ticket_ad_c: 192.168.43.137
- authenticator_id_c: 2
- ts_3: 1527987470
- authenticator_ad_c: 192.168.43.137
- ***************************************************************************************
- Sun Jun 03 08:59:18 CST 2018
- tag: CLIENT_TO_TGS
- id_v: 1
- Key_C_TGS: 888
- id_tgs: 1
- lifetime_2: 8
- ticket_id_c: 3
- ts_2: 1527987556
- ticket_ad_c: 192.168.43.3
- authenticator_id_c: 3
- ts_3: 1527987559
- authenticator_ad_c: 192.168.43.3
- ***************************************************************************************
- Sun Jun 03 09:01:23 CST 2018
- tag: CLIENT_TO_TGS
- id_v: 1
- Key_C_TGS: 888
- id_tgs: 1
- lifetime_2: 8
- ticket_id_c: 5
- ts_2: 1527987680
- ticket_ad_c: 192.168.43.240
- authenticator_id_c: 5
- ts_3: 1527987682
- authenticator_ad_c: 192.168.43.240
- ***************************************************************************************
- Sun Jun 03 09:02:26 CST 2018
- tag: CLIENT_TO_TGS
- id_v: 1
- Key_C_TGS: 888
- id_tgs: 1
- lifetime_2: 8
- ticket_id_c: 5
- ts_2: 1527987744
- ticket_ad_c: 192.168.43.240
- authenticator_id_c: 5
- ts_3: 1527987745
- authenticator_ad_c: 192.168.43.240
- ***************************************************************************************
- Sun Jun 03 09:05:42 CST 2018
- tag: CLIENT_TO_TGS
- id_v: 1
- Key_C_TGS: 888
- id_tgs: 1
- lifetime_2: 8
- ticket_id_c: 4
- ts_2: 1527987940
- ticket_ad_c: 192.168.43.191
- authenticator_id_c: 4
- ts_3: 1527987942
- authenticator_ad_c: 192.168.43.191
- ***************************************************************************************
- Sun Jun 03 09:06:44 CST 2018
+ Sun Jun 03 13:29:02 CST 2018
  tag: CLIENT_TO_TGS
  id_v: 1
  Key_C_TGS: 888
  id_tgs: 1
  lifetime_2: 8
  ticket_id_c: 1
- ts_2: 1527988001
- ticket_ad_c: 192.168.43.250
+ ts_2: 1528003742
+ ticket_ad_c: 127.0.0.1
  authenticator_id_c: 1
- ts_3: 1527987999
- authenticator_ad_c: 192.168.43.250
+ ts_3: 1528003742
+ authenticator_ad_c: 127.0.0.1
  ***************************************************************************************
- Sun Jun 03 09:06:56 CST 2018
- tag: CLIENT_TO_TGS
- id_v: 1
- Key_C_TGS: 888
- id_tgs: 1
- lifetime_2: 8
- ticket_id_c: 4
- ts_2: 1527988014
- ticket_ad_c: 192.168.43.191
- authenticator_id_c: 4
- ts_3: 1527988016
- authenticator_ad_c: 192.168.43.191
- ***************************************************************************************
- Sun Jun 03 09:07:03 CST 2018
- tag: CLIENT_TO_TGS
- id_v: 1
- Key_C_TGS: 888
- id_tgs: 1
- lifetime_2: 8
- ticket_id_c: 5
- ts_2: 1527988021
- ticket_ad_c: 192.168.43.240
- authenticator_id_c: 5
- ts_3: 1527988023
- authenticator_ad_c: 192.168.43.240
- ***************************************************************************************
- Sun Jun 03 09:07:52 CST 2018
- tag: CLIENT_TO_TGS
- id_v: 1
- Key_C_TGS: 888
- id_tgs: 1
- lifetime_2: 8
- ticket_id_c: 4
- ts_2: 1527988070
- ticket_ad_c: 192.168.43.191
- authenticator_id_c: 4
- ts_3: 1527988072
- authenticator_ad_c: 192.168.43.191
- ***************************************************************************************
- Sun Jun 03 09:08:47 CST 2018
- tag: CLIENT_TO_TGS
- id_v: 1
- Key_C_TGS: 46069
- id_tgs: -93
- lifetime_2: -32
- ticket_id_c: 53648
- ts_2: -641049957
- ticket_ad_c: 131.248.33.254
- authenticator_id_c: 1183
- ts_3: 993557698
- authenticator_ad_c: 72.116.148.68
- ***************************************************************************************
- Sun Jun 03 09:08:52 CST 2018
+ Sun Jun 03 13:29:47 CST 2018
  tag: CLIENT_TO_TGS
  id_v: 1
  Key_C_TGS: 888
  id_tgs: 1
  lifetime_2: 8
  ticket_id_c: 1
- ts_2: 1527988130
- ticket_ad_c: 192.168.43.250
+ ts_2: 1528003787
+ ticket_ad_c: 127.0.0.1
  authenticator_id_c: 1
- ts_3: 1527988128
- authenticator_ad_c: 192.168.43.250
+ ts_3: 1528003787
+ authenticator_ad_c: 127.0.0.1
  ***************************************************************************************
- Sun Jun 03 09:08:53 CST 2018
+ Sun Jun 03 13:30:02 CST 2018
  tag: CLIENT_TO_TGS
  id_v: 1
  Key_C_TGS: 888
  id_tgs: 1
  lifetime_2: 8
  ticket_id_c: 2
- ts_2: 1527988131
- ticket_ad_c: 192.168.43.137
+ ts_2: 1528003802
+ ticket_ad_c: 127.0.0.1
  authenticator_id_c: 2
- ts_3: 1527988131
- authenticator_ad_c: 192.168.43.137
+ ts_3: 1528003802
+ authenticator_ad_c: 127.0.0.1
  ***************************************************************************************
- Sun Jun 03 10:05:39 CST 2018
- tag: CLIENT_TO_TGS
- id_v: 1
- Key_C_TGS: 888
- id_tgs: 1
- lifetime_2: 8
- ticket_id_c: 2
- ts_2: 1527991537
- ticket_ad_c: 192.168.43.137
- authenticator_id_c: 2
- ts_3: 1527991537
- authenticator_ad_c: 192.168.43.137
- ***************************************************************************************
- Sun Jun 03 10:14:19 CST 2018
- tag: CLIENT_TO_TGS
- id_v: 1
- Key_C_TGS: 888
- id_tgs: 1
- lifetime_2: 8
- ticket_id_c: 2
- ts_2: 1527992057
- ticket_ad_c: 192.168.43.137
- authenticator_id_c: 2
- ts_3: 1527992057
- authenticator_ad_c: 192.168.43.137
- ***************************************************************************************
- Sun Jun 03 10:24:39 CST 2018
+ Sun Jun 03 13:33:31 CST 2018
  tag: CLIENT_TO_TGS
  id_v: 1
  Key_C_TGS: 888
  id_tgs: 1
  lifetime_2: 8
  ticket_id_c: 3
- ts_2: 1527992677
- ticket_ad_c: 192.168.43.3
+ ts_2: 1528004011
+ ticket_ad_c: 127.0.0.1
  authenticator_id_c: 3
- ts_3: 1527992681
- authenticator_ad_c: 192.168.43.3
+ ts_3: 1528004011
+ authenticator_ad_c: 127.0.0.1
  ***************************************************************************************
- Sun Jun 03 10:29:26 CST 2018
+ Sun Jun 03 13:33:36 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1528004016
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1528004016
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sun Jun 03 13:41:40 CST 2018
  tag: CLIENT_TO_TGS
  id_v: 1
  Key_C_TGS: 888
  id_tgs: 1
  lifetime_2: 8
  ticket_id_c: 2
- ts_2: 1527992964
- ticket_ad_c: 192.168.43.137
+ ts_2: 1528004497
+ ticket_ad_c: 192.168.1.168
  authenticator_id_c: 2
- ts_3: 1527992964
- authenticator_ad_c: 192.168.43.137
+ ts_3: 1528004500
+ authenticator_ad_c: 192.168.1.168
+ ***************************************************************************************
+ Sun Jun 03 13:41:42 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1528004499
+ ticket_ad_c: 192.168.1.135
+ authenticator_id_c: 1
+ ts_3: 1528004499
+ authenticator_ad_c: 192.168.1.135
+ ***************************************************************************************
+ Sun Jun 03 13:46:39 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1528004796
+ ticket_ad_c: 192.168.1.168
+ authenticator_id_c: 1
+ ts_3: 1528004799
+ authenticator_ad_c: 192.168.1.168
+ ***************************************************************************************
+ Sun Jun 03 13:47:19 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 7858
+ id_tgs: 11
+ lifetime_2: 80
+ ticket_id_c: 38157
+ ts_2: -95218581
+ ticket_ad_c: 6.13.64.20
+ authenticator_id_c: 18386
+ ts_3: -1068649828
+ authenticator_ad_c: 126.150.102.152
+ ***************************************************************************************
+ Sun Jun 03 13:47:23 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 2
+ ts_2: 1528004840
+ ticket_ad_c: 192.168.1.168
+ authenticator_id_c: 2
+ ts_3: 1528004843
+ authenticator_ad_c: 192.168.1.168
+ ***************************************************************************************
+ Sun Jun 03 13:49:41 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1528004981
+ ticket_ad_c: 192.168.1.168
+ authenticator_id_c: 1
+ ts_3: 1528004981
+ authenticator_ad_c: 192.168.1.168
+ ***************************************************************************************
+ Sun Jun 03 13:49:46 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 2
+ ts_2: 1528004986
+ ticket_ad_c: 192.168.1.168
+ authenticator_id_c: 2
+ ts_3: 1528004986
+ authenticator_ad_c: 192.168.1.168
  

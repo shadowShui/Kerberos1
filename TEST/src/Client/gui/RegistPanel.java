@@ -262,10 +262,6 @@ public class RegistPanel extends javax.swing.JPanel {
     		JOptionPane.showMessageDialog(null, "注册成功！");
     	} else if(res.equals("regist failed")) {
     		JOptionPane.showMessageDialog(null, "注册失败，用户名可能已经存在！");
-    	} else if (res.equals("get certificate failed")){
-    		JOptionPane.showMessageDialog(null, "注册成功，但未获取证书！");
-    	} else if (res.equals("get certificate successful")){
-    		JOptionPane.showMessageDialog(null, "注册成功，已获取证书！");
     	}
    
     }

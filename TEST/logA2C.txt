@@ -1480,4 +1480,95 @@
  ticket_id_c: 1
  ticket_ts_2: 1527960247
  ticket_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sun Jun 03 13:29:02 CST 2018
+ tag: AS_TO_CLIENT
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ts_2: 1528003742
+ ticket_key_C_TGS: 888
+ ticket_id_tgs: 1
+ ticket_lifetime_2: 8
+ ticket_id_c: 1
+ ticket_ts_2: 1528003742
+ ticket_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sun Jun 03 13:29:47 CST 2018
+ tag: AS_TO_CLIENT
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ts_2: 1528003787
+ ticket_key_C_TGS: 888
+ ticket_id_tgs: 1
+ ticket_lifetime_2: 8
+ ticket_id_c: 1
+ ticket_ts_2: 1528003787
+ ticket_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sun Jun 03 13:30:02 CST 2018
+ tag: AS_TO_CLIENT
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ts_2: 1528003802
+ ticket_key_C_TGS: 888
+ ticket_id_tgs: 1
+ ticket_lifetime_2: 8
+ ticket_id_c: 2
+ ticket_ts_2: 1528003802
+ ticket_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sun Jun 03 13:33:31 CST 2018
+ tag: AS_TO_CLIENT
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ts_2: 1528004011
+ ticket_key_C_TGS: 888
+ ticket_id_tgs: 1
+ ticket_lifetime_2: 8
+ ticket_id_c: 3
+ ticket_ts_2: 1528004011
+ ticket_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sun Jun 03 13:33:36 CST 2018
+ tag: AS_TO_CLIENT
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ts_2: 1528004016
+ ticket_key_C_TGS: 888
+ ticket_id_tgs: 1
+ ticket_lifetime_2: 8
+ ticket_id_c: 1
+ ticket_ts_2: 1528004016
+ ticket_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sun Jun 03 13:49:41 CST 2018
+ tag: AS_TO_CLIENT
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ts_2: 1528004981
+ ticket_key_C_TGS: 888
+ ticket_id_tgs: 1
+ ticket_lifetime_2: 8
+ ticket_id_c: 1
+ ticket_ts_2: 1528004981
+ ticket_ad_c: 192.168.1.168
+ ***************************************************************************************
+ Sun Jun 03 13:49:46 CST 2018
+ tag: AS_TO_CLIENT
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ts_2: 1528004986
+ ticket_key_C_TGS: 888
+ ticket_id_tgs: 1
+ ticket_lifetime_2: 8
+ ticket_id_c: 2
+ ticket_ts_2: 1528004986
+ ticket_ad_c: 192.168.1.168
  

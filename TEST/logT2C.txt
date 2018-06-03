@@ -1151,243 +1151,135 @@
  ticket_ts_4: 1527960247
  ticket_ad_c: 127.0.0.1
  ***************************************************************************************
- Sun Jun 03 08:41:04 CST 2018
+ Sun Jun 03 13:29:02 CST 2018
   tag: TGS_TO_CLIENT
  Key_C_TGS: 999
  id_v: 1
- ts_4: 1527986464
- Key_C_V: 999
- ticket_id_v: 1
- ticket_id_c: 4
- lifetime_4: 8
- ticket_ts_4: 1527986464
- ticket_ad_c: 192.168.43.191
- ***************************************************************************************
- Sun Jun 03 08:43:04 CST 2018
-  tag: TGS_TO_CLIENT
- Key_C_TGS: 999
- id_v: 1
- ts_4: 1527986584
- Key_C_V: 999
- ticket_id_v: 1
- ticket_id_c: 2
- lifetime_4: 8
- ticket_ts_4: 1527986584
- ticket_ad_c: 192.168.43.137
- ***************************************************************************************
- Sun Jun 03 08:43:19 CST 2018
-  tag: TGS_TO_CLIENT
- Key_C_TGS: 999
- id_v: 1
- ts_4: 1527986599
- Key_C_V: 999
- ticket_id_v: 1
- ticket_id_c: 3
- lifetime_4: 8
- ticket_ts_4: 1527986599
- ticket_ad_c: 192.168.43.3
- ***************************************************************************************
- Sun Jun 03 08:45:23 CST 2018
-  tag: TGS_TO_CLIENT
- Key_C_TGS: 999
- id_v: 1
- ts_4: 1527986723
- Key_C_V: 999
- ticket_id_v: 1
- ticket_id_c: 5
- lifetime_4: 8
- ticket_ts_4: 1527986723
- ticket_ad_c: 192.168.43.240
- ***************************************************************************************
- Sun Jun 03 08:56:35 CST 2018
-  tag: TGS_TO_CLIENT
- Key_C_TGS: 999
- id_v: 1
- ts_4: 1527987395
- Key_C_V: 999
- ticket_id_v: 1
- ticket_id_c: 2
- lifetime_4: 8
- ticket_ts_4: 1527987395
- ticket_ad_c: 192.168.43.137
- ***************************************************************************************
- Sun Jun 03 08:57:52 CST 2018
-  tag: TGS_TO_CLIENT
- Key_C_TGS: 999
- id_v: 1
- ts_4: 1527987472
- Key_C_V: 999
- ticket_id_v: 1
- ticket_id_c: 2
- lifetime_4: 8
- ticket_ts_4: 1527987472
- ticket_ad_c: 192.168.43.137
- ***************************************************************************************
- Sun Jun 03 08:59:18 CST 2018
-  tag: TGS_TO_CLIENT
- Key_C_TGS: 999
- id_v: 1
- ts_4: 1527987558
- Key_C_V: 999
- ticket_id_v: 1
- ticket_id_c: 3
- lifetime_4: 8
- ticket_ts_4: 1527987558
- ticket_ad_c: 192.168.43.3
- ***************************************************************************************
- Sun Jun 03 09:01:23 CST 2018
-  tag: TGS_TO_CLIENT
- Key_C_TGS: 999
- id_v: 1
- ts_4: 1527987683
- Key_C_V: 999
- ticket_id_v: 1
- ticket_id_c: 5
- lifetime_4: 8
- ticket_ts_4: 1527987683
- ticket_ad_c: 192.168.43.240
- ***************************************************************************************
- Sun Jun 03 09:02:26 CST 2018
-  tag: TGS_TO_CLIENT
- Key_C_TGS: 999
- id_v: 1
- ts_4: 1527987746
- Key_C_V: 999
- ticket_id_v: 1
- ticket_id_c: 5
- lifetime_4: 8
- ticket_ts_4: 1527987746
- ticket_ad_c: 192.168.43.240
- ***************************************************************************************
- Sun Jun 03 09:05:43 CST 2018
-  tag: TGS_TO_CLIENT
- Key_C_TGS: 999
- id_v: 1
- ts_4: 1527987943
- Key_C_V: 999
- ticket_id_v: 1
- ticket_id_c: 4
- lifetime_4: 8
- ticket_ts_4: 1527987943
- ticket_ad_c: 192.168.43.191
- ***************************************************************************************
- Sun Jun 03 09:06:44 CST 2018
-  tag: TGS_TO_CLIENT
- Key_C_TGS: 999
- id_v: 1
- ts_4: 1527988004
+ ts_4: 1528003742
  Key_C_V: 999
  ticket_id_v: 1
  ticket_id_c: 1
  lifetime_4: 8
- ticket_ts_4: 1527988004
- ticket_ad_c: 192.168.43.250
+ ticket_ts_4: 1528003742
+ ticket_ad_c: 127.0.0.1
  ***************************************************************************************
- Sun Jun 03 09:06:56 CST 2018
+ Sun Jun 03 13:29:47 CST 2018
   tag: TGS_TO_CLIENT
  Key_C_TGS: 999
  id_v: 1
- ts_4: 1527988016
- Key_C_V: 999
- ticket_id_v: 1
- ticket_id_c: 4
- lifetime_4: 8
- ticket_ts_4: 1527988016
- ticket_ad_c: 192.168.43.191
- ***************************************************************************************
- Sun Jun 03 09:07:04 CST 2018
-  tag: TGS_TO_CLIENT
- Key_C_TGS: 999
- id_v: 1
- ts_4: 1527988024
- Key_C_V: 999
- ticket_id_v: 1
- ticket_id_c: 5
- lifetime_4: 8
- ticket_ts_4: 1527988024
- ticket_ad_c: 192.168.43.240
- ***************************************************************************************
- Sun Jun 03 09:07:53 CST 2018
-  tag: TGS_TO_CLIENT
- Key_C_TGS: 999
- id_v: 1
- ts_4: 1527988073
- Key_C_V: 999
- ticket_id_v: 1
- ticket_id_c: 4
- lifetime_4: 8
- ticket_ts_4: 1527988073
- ticket_ad_c: 192.168.43.191
- ***************************************************************************************
- Sun Jun 03 09:08:52 CST 2018
-  tag: TGS_TO_CLIENT
- Key_C_TGS: 999
- id_v: 1
- ts_4: 1527988132
+ ts_4: 1528003787
  Key_C_V: 999
  ticket_id_v: 1
  ticket_id_c: 1
  lifetime_4: 8
- ticket_ts_4: 1527988132
- ticket_ad_c: 192.168.43.250
+ ticket_ts_4: 1528003787
+ ticket_ad_c: 127.0.0.1
  ***************************************************************************************
- Sun Jun 03 09:08:54 CST 2018
+ Sun Jun 03 13:30:02 CST 2018
   tag: TGS_TO_CLIENT
  Key_C_TGS: 999
  id_v: 1
- ts_4: 1527988134
+ ts_4: 1528003802
  Key_C_V: 999
  ticket_id_v: 1
  ticket_id_c: 2
  lifetime_4: 8
- ticket_ts_4: 1527988134
- ticket_ad_c: 192.168.43.137
+ ticket_ts_4: 1528003802
+ ticket_ad_c: 127.0.0.1
  ***************************************************************************************
- Sun Jun 03 10:05:40 CST 2018
+ Sun Jun 03 13:33:31 CST 2018
   tag: TGS_TO_CLIENT
  Key_C_TGS: 999
  id_v: 1
- ts_4: 1527991540
- Key_C_V: 999
- ticket_id_v: 1
- ticket_id_c: 2
- lifetime_4: 8
- ticket_ts_4: 1527991540
- ticket_ad_c: 192.168.43.137
- ***************************************************************************************
- Sun Jun 03 10:14:19 CST 2018
-  tag: TGS_TO_CLIENT
- Key_C_TGS: 999
- id_v: 1
- ts_4: 1527992059
- Key_C_V: 999
- ticket_id_v: 1
- ticket_id_c: 2
- lifetime_4: 8
- ticket_ts_4: 1527992059
- ticket_ad_c: 192.168.43.137
- ***************************************************************************************
- Sun Jun 03 10:24:39 CST 2018
-  tag: TGS_TO_CLIENT
- Key_C_TGS: 999
- id_v: 1
- ts_4: 1527992679
+ ts_4: 1528004011
  Key_C_V: 999
  ticket_id_v: 1
  ticket_id_c: 3
  lifetime_4: 8
- ticket_ts_4: 1527992679
- ticket_ad_c: 192.168.43.3
+ ticket_ts_4: 1528004011
+ ticket_ad_c: 127.0.0.1
  ***************************************************************************************
- Sun Jun 03 10:29:26 CST 2018
+ Sun Jun 03 13:33:36 CST 2018
   tag: TGS_TO_CLIENT
  Key_C_TGS: 999
  id_v: 1
- ts_4: 1527992966
+ ts_4: 1528004016
+ Key_C_V: 999
+ ticket_id_v: 1
+ ticket_id_c: 1
+ lifetime_4: 8
+ ticket_ts_4: 1528004016
+ ticket_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sun Jun 03 13:41:40 CST 2018
+  tag: TGS_TO_CLIENT
+ Key_C_TGS: 999
+ id_v: 1
+ ts_4: 1528004500
  Key_C_V: 999
  ticket_id_v: 1
  ticket_id_c: 2
  lifetime_4: 8
- ticket_ts_4: 1527992966
- ticket_ad_c: 192.168.43.137
+ ticket_ts_4: 1528004500
+ ticket_ad_c: 192.168.1.168
+ ***************************************************************************************
+ Sun Jun 03 13:41:42 CST 2018
+  tag: TGS_TO_CLIENT
+ Key_C_TGS: 999
+ id_v: 1
+ ts_4: 1528004502
+ Key_C_V: 999
+ ticket_id_v: 1
+ ticket_id_c: 1
+ lifetime_4: 8
+ ticket_ts_4: 1528004502
+ ticket_ad_c: 192.168.1.135
+ ***************************************************************************************
+ Sun Jun 03 13:46:39 CST 2018
+  tag: TGS_TO_CLIENT
+ Key_C_TGS: 999
+ id_v: 1
+ ts_4: 1528004799
+ Key_C_V: 999
+ ticket_id_v: 1
+ ticket_id_c: 1
+ lifetime_4: 8
+ ticket_ts_4: 1528004799
+ ticket_ad_c: 192.168.1.168
+ ***************************************************************************************
+ Sun Jun 03 13:47:23 CST 2018
+  tag: TGS_TO_CLIENT
+ Key_C_TGS: 999
+ id_v: 1
+ ts_4: 1528004843
+ Key_C_V: 999
+ ticket_id_v: 1
+ ticket_id_c: 2
+ lifetime_4: 8
+ ticket_ts_4: 1528004843
+ ticket_ad_c: 192.168.1.168
+ ***************************************************************************************
+ Sun Jun 03 13:49:41 CST 2018
+  tag: TGS_TO_CLIENT
+ Key_C_TGS: 999
+ id_v: 1
+ ts_4: 1528004981
+ Key_C_V: 999
+ ticket_id_v: 1
+ ticket_id_c: 1
+ lifetime_4: 8
+ ticket_ts_4: 1528004981
+ ticket_ad_c: 192.168.1.168
+ ***************************************************************************************
+ Sun Jun 03 13:49:46 CST 2018
+  tag: TGS_TO_CLIENT
+ Key_C_TGS: 999
+ id_v: 1
+ ts_4: 1528004986
+ Key_C_V: 999
+ ticket_id_v: 1
+ ticket_id_c: 2
+ lifetime_4: 8
+ ticket_ts_4: 1528004986
+ ticket_ad_c: 192.168.1.168
  
