@@ -1,0 +1,1743 @@
+***************************************************************************************
+ Sat Jun 02 11:53:50 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 123
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527911630
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527911630
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 11:54:27 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 123
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527911667
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527911667
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 12:06:04 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 123
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527912364
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527912364
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 12:07:52 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 123
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527912472
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527912472
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 12:10:31 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 123
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527912631
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527912631
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 12:11:12 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 123
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527912672
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527912672
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 12:13:06 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 123
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527912786
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527912786
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 12:15:02 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 123
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527912902
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527912902
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 12:16:01 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 123
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527912961
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527912961
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 12:16:03 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 123
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527912963
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527912963
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 12:16:16 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 123
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527912976
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527912976
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 12:17:43 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 123
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527913063
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527913063
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 13:05:46 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 123
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527915946
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527915946
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 13:07:12 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 123
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 2
+ ts_2: 1527916032
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 2
+ ts_3: 1527916032
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 13:07:29 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 49727
+ id_tgs: -75
+ lifetime_2: 115
+ ticket_id_c: 13690
+ ts_2: -1960648293
+ ticket_ad_c: 169.109.127.63
+ authenticator_id_c: 28949
+ ts_3: 844768495
+ authenticator_ad_c: 244.61.127.200
+ ***************************************************************************************
+ Sat Jun 02 13:07:43 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 49727
+ id_tgs: -75
+ lifetime_2: 115
+ ticket_id_c: 13690
+ ts_2: 906563345
+ ticket_ad_c: 240.76.46.24
+ authenticator_id_c: 14218
+ ts_3: -1917061260
+ authenticator_ad_c: 174.211.15.250
+ ***************************************************************************************
+ Sat Jun 02 13:07:45 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 49727
+ id_tgs: -75
+ lifetime_2: 115
+ ticket_id_c: 13690
+ ts_2: 1977244941
+ ticket_ad_c: 40.220.102.129
+ authenticator_id_c: 17184
+ ts_3: -1361108589
+ authenticator_ad_c: 141.190.113.77
+ ***************************************************************************************
+ Sat Jun 02 13:07:50 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 123
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 2
+ ts_2: 1527916070
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 2
+ ts_3: 1527916070
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 13:08:12 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 49727
+ id_tgs: -75
+ lifetime_2: 115
+ ticket_id_c: 13690
+ ts_2: -1598012490
+ ticket_ad_c: 112.209.198.35
+ authenticator_id_c: 35347
+ ts_3: -91091877
+ authenticator_ad_c: 114.245.60.12
+ ***************************************************************************************
+ Sat Jun 02 13:08:13 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 49727
+ id_tgs: -75
+ lifetime_2: 115
+ ticket_id_c: 13690
+ ts_2: -1935612794
+ ticket_ad_c: 93.10.4.29
+ authenticator_id_c: 22154
+ ts_3: 242043040
+ authenticator_ad_c: 252.209.46.242
+ ***************************************************************************************
+ Sat Jun 02 13:08:14 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 49727
+ id_tgs: -75
+ lifetime_2: 115
+ ticket_id_c: 13690
+ ts_2: -1773316094
+ ticket_ad_c: 6.245.123.253
+ authenticator_id_c: 11605
+ ts_3: -1471031962
+ authenticator_ad_c: 118.17.209.86
+ ***************************************************************************************
+ Sat Jun 02 13:08:16 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 49727
+ id_tgs: -75
+ lifetime_2: 115
+ ticket_id_c: 13690
+ ts_2: 1422345139
+ ticket_ad_c: 54.104.213.171
+ authenticator_id_c: 37288
+ ts_3: -1035010844
+ authenticator_ad_c: 185.131.201.168
+ ***************************************************************************************
+ Sat Jun 02 13:08:33 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 123
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 2
+ ts_2: 1527916113
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 2
+ ts_3: 1527916113
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 13:09:22 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 123
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527916162
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527916162
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 13:09:31 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 123
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527916171
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527916171
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 13:09:37 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 42057
+ id_tgs: 118
+ lifetime_2: -76
+ ticket_id_c: 25295
+ ts_2: -991003859
+ ticket_ad_c: 89.236.235.79
+ authenticator_id_c: 2013
+ ts_3: -1662024010
+ authenticator_ad_c: 235.227.37.132
+ ***************************************************************************************
+ Sat Jun 02 13:09:38 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 42057
+ id_tgs: 118
+ lifetime_2: -76
+ ticket_id_c: 25295
+ ts_2: -1081581437
+ ticket_ad_c: 132.218.29.175
+ authenticator_id_c: 41058
+ ts_3: -1389049348
+ authenticator_ad_c: 71.10.77.103
+ ***************************************************************************************
+ Sat Jun 02 13:09:39 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 42057
+ id_tgs: 118
+ lifetime_2: -76
+ ticket_id_c: 25295
+ ts_2: -1081581437
+ ticket_ad_c: 132.218.29.175
+ authenticator_id_c: 10427
+ ts_3: -1457691667
+ authenticator_ad_c: 71.10.77.103
+ ***************************************************************************************
+ Sat Jun 02 13:09:39 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 42057
+ id_tgs: 118
+ lifetime_2: -76
+ ticket_id_c: 25295
+ ts_2: 304136950
+ ticket_ad_c: 184.220.242.246
+ authenticator_id_c: 36461
+ ts_3: 2070029126
+ authenticator_ad_c: 15.5.122.79
+ ***************************************************************************************
+ Sat Jun 02 13:09:40 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 42057
+ id_tgs: 118
+ lifetime_2: -76
+ ticket_id_c: 25295
+ ts_2: -424531417
+ ticket_ad_c: 44.64.17.108
+ authenticator_id_c: 26130
+ ts_3: -1943232050
+ authenticator_ad_c: 94.49.89.37
+ ***************************************************************************************
+ Sat Jun 02 13:09:40 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 42057
+ id_tgs: 118
+ lifetime_2: -76
+ ticket_id_c: 25295
+ ts_2: -424531417
+ ticket_ad_c: 44.64.17.108
+ authenticator_id_c: 26130
+ ts_3: -1943232050
+ authenticator_ad_c: 94.49.89.37
+ ***************************************************************************************
+ Sat Jun 02 13:09:41 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 42057
+ id_tgs: 118
+ lifetime_2: -76
+ ticket_id_c: 25295
+ ts_2: -38206195
+ ticket_ad_c: 157.225.3.81
+ authenticator_id_c: 360
+ ts_3: -1654268056
+ authenticator_ad_c: 106.83.33.178
+ ***************************************************************************************
+ Sat Jun 02 13:09:42 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 42057
+ id_tgs: 118
+ lifetime_2: -76
+ ticket_id_c: 25295
+ ts_2: 1780481070
+ ticket_ad_c: 26.175.12.25
+ authenticator_id_c: 54875
+ ts_3: 279757415
+ authenticator_ad_c: 58.36.203.230
+ ***************************************************************************************
+ Sat Jun 02 13:09:42 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 42057
+ id_tgs: 118
+ lifetime_2: -76
+ ticket_id_c: 25295
+ ts_2: 1780481070
+ ticket_ad_c: 26.175.12.25
+ authenticator_id_c: 54875
+ ts_3: 279757415
+ authenticator_ad_c: 58.36.203.230
+ ***************************************************************************************
+ Sat Jun 02 13:09:43 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 42057
+ id_tgs: 118
+ lifetime_2: -76
+ ticket_id_c: 25295
+ ts_2: 1337272840
+ ticket_ad_c: 86.9.123.125
+ authenticator_id_c: 15042
+ ts_3: 94257260
+ authenticator_ad_c: 64.48.57.253
+ ***************************************************************************************
+ Sat Jun 02 13:40:18 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 123
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527918018
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527918018
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 13:40:36 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 123
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527918036
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527918036
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 13:51:08 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 123
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527918668
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527918668
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 13:52:05 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 123
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527918725
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527918725
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 14:16:18 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 123
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527920178
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527920178
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 14:24:56 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 123
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527920696
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527920696
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 14:30:28 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 123
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527921028
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527921028
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 14:38:04 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 123
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527921483
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527921484
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 14:40:21 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 123
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527921621
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527921621
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 14:41:34 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 123
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527921694
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527921694
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 16:40:11 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 123
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527928811
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527928811
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 16:41:24 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 123
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 2
+ ts_2: 1527928884
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 2
+ ts_3: 1527928884
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 16:47:41 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527929261
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527929261
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 16:50:39 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527929439
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527929439
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 16:53:30 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 6
+ ts_2: 1527929610
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 6
+ ts_3: 1527929610
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 16:54:22 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 6
+ ts_2: 1527929662
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 6
+ ts_3: 1527929662
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 16:56:53 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527929813
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527929813
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 19:26:25 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527938785
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527938785
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 19:51:06 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527940266
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527940266
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 19:53:47 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527940427
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527940427
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 19:55:48 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527940548
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 1
+ ts_3: 1527940548
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 19:58:49 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527940729
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 1
+ ts_3: 1527940729
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 20:22:05 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527942125
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 1
+ ts_3: 1527942125
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 20:22:14 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 2
+ ts_2: 1527942134
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 2
+ ts_3: 1527942134
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 20:29:23 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527942563
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 1
+ ts_3: 1527942563
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 20:29:29 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 2
+ ts_2: 1527942569
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 2
+ ts_3: 1527942569
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 20:33:08 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527942788
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 1
+ ts_3: 1527942788
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 20:33:16 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 2
+ ts_2: 1527942796
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 2
+ ts_3: 1527942796
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 20:49:58 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527943798
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 1
+ ts_3: 1527943798
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 20:50:04 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 2
+ ts_2: 1527943804
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 2
+ ts_3: 1527943804
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 20:56:50 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527944210
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 1
+ ts_3: 1527944210
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 20:56:56 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 2
+ ts_2: 1527944216
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 2
+ ts_3: 1527944216
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 20:59:30 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527944370
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 1
+ ts_3: 1527944370
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 20:59:36 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 2
+ ts_2: 1527944376
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 2
+ ts_3: 1527944376
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 21:03:12 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527944592
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 1
+ ts_3: 1527944592
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 21:03:16 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 2
+ ts_2: 1527944596
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 2
+ ts_3: 1527944596
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 21:06:31 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527944791
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 1
+ ts_3: 1527944791
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 21:06:35 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 2
+ ts_2: 1527944795
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 2
+ ts_3: 1527944795
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 21:13:26 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527945206
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 1
+ ts_3: 1527945206
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 21:13:29 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 2
+ ts_2: 1527945209
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 2
+ ts_3: 1527945209
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 21:44:37 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527947077
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 1
+ ts_3: 1527947077
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 21:44:40 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 2
+ ts_2: 1527947080
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 2
+ ts_3: 1527947080
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 21:46:15 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527947175
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 1
+ ts_3: 1527947175
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 21:46:19 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 2
+ ts_2: 1527947179
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 2
+ ts_3: 1527947179
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 22:00:06 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527948006
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527948006
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 22:00:11 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 2
+ ts_2: 1527948011
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 2
+ ts_3: 1527948011
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 22:03:47 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527948227
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527948227
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 22:03:52 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 2
+ ts_2: 1527948232
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 2
+ ts_3: 1527948232
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 22:08:19 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527948499
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527948499
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 22:08:23 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 2
+ ts_2: 1527948503
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 2
+ ts_3: 1527948503
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 22:09:14 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527948554
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527948554
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 22:09:18 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 2
+ ts_2: 1527948558
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 2
+ ts_3: 1527948558
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 22:20:06 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527949206
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527949206
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 22:20:11 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 2
+ ts_2: 1527949211
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 2
+ ts_3: 1527949211
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 22:26:38 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527949598
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527949598
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 22:26:40 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527949600
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527949600
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 22:26:52 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527949612
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527949612
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 22:26:56 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 2
+ ts_2: 1527949616
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 2
+ ts_3: 1527949616
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 22:37:25 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527950245
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527950245
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 22:37:29 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 2
+ ts_2: 1527950249
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 2
+ ts_3: 1527950249
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 22:45:28 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527950728
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527950728
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 22:45:35 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 2
+ ts_2: 1527950735
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 2
+ ts_3: 1527950735
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 23:23:43 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527953022
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527953023
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 23:23:47 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 2
+ ts_2: 1527953027
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 2
+ ts_3: 1527953027
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 23:26:03 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527953163
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527953163
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 23:26:07 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 2
+ ts_2: 1527953167
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 2
+ ts_3: 1527953167
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sun Jun 03 00:00:48 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527955248
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527955248
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sun Jun 03 00:55:31 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527958531
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527958531
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sun Jun 03 00:55:35 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 2
+ ts_2: 1527958535
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 2
+ ts_3: 1527958535
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sun Jun 03 01:03:08 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527958988
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527958988
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sun Jun 03 01:03:12 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 2
+ ts_2: 1527958992
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 2
+ ts_3: 1527958992
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sun Jun 03 01:10:08 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527959408
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527959408
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sun Jun 03 01:10:12 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 2
+ ts_2: 1527959412
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 2
+ ts_3: 1527959412
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sun Jun 03 01:19:25 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527959965
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527959965
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sun Jun 03 01:19:30 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 2
+ ts_2: 1527959970
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 2
+ ts_3: 1527959970
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sun Jun 03 01:22:27 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527960147
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527960147
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sun Jun 03 01:22:32 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 2
+ ts_2: 1527960152
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 2
+ ts_3: 1527960152
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sun Jun 03 01:24:07 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527960247
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_3: 1527960247
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sun Jun 03 08:41:04 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 4
+ ts_2: 1527986462
+ ticket_ad_c: 192.168.43.191
+ authenticator_id_c: 4
+ ts_3: 1527986464
+ authenticator_ad_c: 192.168.43.191
+ ***************************************************************************************
+ Sun Jun 03 08:43:04 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 2
+ ts_2: 1527986581
+ ticket_ad_c: 192.168.43.137
+ authenticator_id_c: 2
+ ts_3: 1527986581
+ authenticator_ad_c: 192.168.43.137
+ ***************************************************************************************
+ Sun Jun 03 08:43:19 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 3
+ ts_2: 1527986597
+ ticket_ad_c: 192.168.43.3
+ authenticator_id_c: 3
+ ts_3: 1527986600
+ authenticator_ad_c: 192.168.43.3
+ ***************************************************************************************
+ Sun Jun 03 08:45:23 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 5
+ ts_2: 1527986721
+ ticket_ad_c: 192.168.43.240
+ authenticator_id_c: 5
+ ts_3: 1527986723
+ authenticator_ad_c: 192.168.43.240
+ ***************************************************************************************
+ Sun Jun 03 08:56:35 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 2
+ ts_2: 1527987393
+ ticket_ad_c: 192.168.43.137
+ authenticator_id_c: 2
+ ts_3: 1527987393
+ authenticator_ad_c: 192.168.43.137
+ ***************************************************************************************
+ Sun Jun 03 08:57:52 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 2
+ ts_2: 1527987470
+ ticket_ad_c: 192.168.43.137
+ authenticator_id_c: 2
+ ts_3: 1527987470
+ authenticator_ad_c: 192.168.43.137
+ ***************************************************************************************
+ Sun Jun 03 08:59:18 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 3
+ ts_2: 1527987556
+ ticket_ad_c: 192.168.43.3
+ authenticator_id_c: 3
+ ts_3: 1527987559
+ authenticator_ad_c: 192.168.43.3
+ ***************************************************************************************
+ Sun Jun 03 09:01:23 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 5
+ ts_2: 1527987680
+ ticket_ad_c: 192.168.43.240
+ authenticator_id_c: 5
+ ts_3: 1527987682
+ authenticator_ad_c: 192.168.43.240
+ ***************************************************************************************
+ Sun Jun 03 09:02:26 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 5
+ ts_2: 1527987744
+ ticket_ad_c: 192.168.43.240
+ authenticator_id_c: 5
+ ts_3: 1527987745
+ authenticator_ad_c: 192.168.43.240
+ ***************************************************************************************
+ Sun Jun 03 09:05:42 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 4
+ ts_2: 1527987940
+ ticket_ad_c: 192.168.43.191
+ authenticator_id_c: 4
+ ts_3: 1527987942
+ authenticator_ad_c: 192.168.43.191
+ ***************************************************************************************
+ Sun Jun 03 09:06:44 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527988001
+ ticket_ad_c: 192.168.43.250
+ authenticator_id_c: 1
+ ts_3: 1527987999
+ authenticator_ad_c: 192.168.43.250
+ ***************************************************************************************
+ Sun Jun 03 09:06:56 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 4
+ ts_2: 1527988014
+ ticket_ad_c: 192.168.43.191
+ authenticator_id_c: 4
+ ts_3: 1527988016
+ authenticator_ad_c: 192.168.43.191
+ ***************************************************************************************
+ Sun Jun 03 09:07:03 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 5
+ ts_2: 1527988021
+ ticket_ad_c: 192.168.43.240
+ authenticator_id_c: 5
+ ts_3: 1527988023
+ authenticator_ad_c: 192.168.43.240
+ ***************************************************************************************
+ Sun Jun 03 09:07:52 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 4
+ ts_2: 1527988070
+ ticket_ad_c: 192.168.43.191
+ authenticator_id_c: 4
+ ts_3: 1527988072
+ authenticator_ad_c: 192.168.43.191
+ ***************************************************************************************
+ Sun Jun 03 09:08:47 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 46069
+ id_tgs: -93
+ lifetime_2: -32
+ ticket_id_c: 53648
+ ts_2: -641049957
+ ticket_ad_c: 131.248.33.254
+ authenticator_id_c: 1183
+ ts_3: 993557698
+ authenticator_ad_c: 72.116.148.68
+ ***************************************************************************************
+ Sun Jun 03 09:08:52 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 1
+ ts_2: 1527988130
+ ticket_ad_c: 192.168.43.250
+ authenticator_id_c: 1
+ ts_3: 1527988128
+ authenticator_ad_c: 192.168.43.250
+ ***************************************************************************************
+ Sun Jun 03 09:08:53 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 2
+ ts_2: 1527988131
+ ticket_ad_c: 192.168.43.137
+ authenticator_id_c: 2
+ ts_3: 1527988131
+ authenticator_ad_c: 192.168.43.137
+ ***************************************************************************************
+ Sun Jun 03 10:05:39 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 2
+ ts_2: 1527991537
+ ticket_ad_c: 192.168.43.137
+ authenticator_id_c: 2
+ ts_3: 1527991537
+ authenticator_ad_c: 192.168.43.137
+ ***************************************************************************************
+ Sun Jun 03 10:14:19 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 2
+ ts_2: 1527992057
+ ticket_ad_c: 192.168.43.137
+ authenticator_id_c: 2
+ ts_3: 1527992057
+ authenticator_ad_c: 192.168.43.137
+ ***************************************************************************************
+ Sun Jun 03 10:24:39 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 3
+ ts_2: 1527992677
+ ticket_ad_c: 192.168.43.3
+ authenticator_id_c: 3
+ ts_3: 1527992681
+ authenticator_ad_c: 192.168.43.3
+ ***************************************************************************************
+ Sun Jun 03 10:29:26 CST 2018
+ tag: CLIENT_TO_TGS
+ id_v: 1
+ Key_C_TGS: 888
+ id_tgs: 1
+ lifetime_2: 8
+ ticket_id_c: 2
+ ts_2: 1527992964
+ ticket_ad_c: 192.168.43.137
+ authenticator_id_c: 2
+ ts_3: 1527992964
+ authenticator_ad_c: 192.168.43.137
+ 

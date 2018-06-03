@@ -1,0 +1,1045 @@
+***************************************************************************************
+ Sat Jun 02 14:30:28 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 123
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527921028
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_5: 1527921028
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 14:38:04 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 123
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527921484
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_5: 1527921484
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 14:40:21 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 123
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527921621
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_5: 1527921621
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 14:41:34 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 123
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527921694
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_5: 1527921694
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 16:40:11 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 123
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527928811
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_5: 1527928811
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 16:41:24 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 123
+ id_v: 1
+ id_c: 2
+ lifetime_4: 8
+ ts_4: 1527928884
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 2
+ ts_5: 1527928884
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 16:47:41 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527929261
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_5: 1527929261
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 16:50:39 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527929439
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_5: 1527929439
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 16:53:30 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 6
+ lifetime_4: 8
+ ts_4: 1527929610
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 6
+ ts_5: 1527929610
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 16:54:22 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 6
+ lifetime_4: 8
+ ts_4: 1527929662
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 6
+ ts_5: 1527929662
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 16:56:53 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527929813
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_5: 1527929813
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 17:28:17 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527931691
+ ticket_ad_c: 192.168.1.118
+ authenticator_id_c: 1
+ ts_5: 1527931697
+ authenticator_ad_c: 192.168.1.118
+ ***************************************************************************************
+ Sat Jun 02 17:28:49 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 10
+ lifetime_4: 8
+ ts_4: 1527931724
+ ticket_ad_c: 192.168.1.119
+ authenticator_id_c: 10
+ ts_5: 1527931727
+ authenticator_ad_c: 192.168.1.119
+ ***************************************************************************************
+ Sat Jun 02 17:29:07 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 5
+ lifetime_4: 8
+ ts_4: 1527931741
+ ticket_ad_c: 192.168.1.106
+ authenticator_id_c: 5
+ ts_5: 1527931741
+ authenticator_ad_c: 192.168.1.106
+ ***************************************************************************************
+ Sat Jun 02 17:29:44 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 4
+ lifetime_4: 8
+ ts_4: 1527931778
+ ticket_ad_c: 192.168.1.121
+ authenticator_id_c: 4
+ ts_5: 1527931780
+ authenticator_ad_c: 192.168.1.121
+ ***************************************************************************************
+ Sat Jun 02 18:02:22 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 4
+ lifetime_4: 8
+ ts_4: 1527933736
+ ticket_ad_c: 192.168.43.191
+ authenticator_id_c: 4
+ ts_5: 1527933736
+ authenticator_ad_c: 192.168.43.191
+ ***************************************************************************************
+ Sat Jun 02 18:02:28 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 2
+ lifetime_4: 8
+ ts_4: 1527933742
+ ticket_ad_c: 192.168.43.137
+ authenticator_id_c: 2
+ ts_5: 1527933745
+ authenticator_ad_c: 192.168.43.137
+ ***************************************************************************************
+ Sat Jun 02 18:02:46 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 3
+ lifetime_4: 8
+ ts_4: 1527933760
+ ticket_ad_c: 192.168.43.3
+ authenticator_id_c: 3
+ ts_5: 1527933766
+ authenticator_ad_c: 192.168.43.3
+ ***************************************************************************************
+ Sat Jun 02 18:03:31 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 5
+ lifetime_4: 8
+ ts_4: 1527933805
+ ticket_ad_c: 192.168.43.240
+ authenticator_id_c: 5
+ ts_5: 1527933811
+ authenticator_ad_c: 192.168.43.240
+ ***************************************************************************************
+ Sat Jun 02 18:04:31 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527933865
+ ticket_ad_c: 192.168.43.250
+ authenticator_id_c: 1
+ ts_5: 1527933867
+ authenticator_ad_c: 192.168.43.250
+ ***************************************************************************************
+ Sat Jun 02 18:15:42 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527934536
+ ticket_ad_c: 192.168.43.250
+ authenticator_id_c: 1
+ ts_5: 1527934538
+ authenticator_ad_c: 192.168.43.250
+ ***************************************************************************************
+ Sat Jun 02 18:40:20 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 4
+ lifetime_4: 8
+ ts_4: 1527936014
+ ticket_ad_c: 192.168.43.191
+ authenticator_id_c: 4
+ ts_5: 1527936014
+ authenticator_ad_c: 192.168.43.191
+ ***************************************************************************************
+ Sat Jun 02 18:40:21 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 2
+ lifetime_4: 8
+ ts_4: 1527936015
+ ticket_ad_c: 192.168.43.137
+ authenticator_id_c: 2
+ ts_5: 1527936018
+ authenticator_ad_c: 192.168.43.137
+ ***************************************************************************************
+ Sat Jun 02 18:41:31 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527936085
+ ticket_ad_c: 192.168.43.250
+ authenticator_id_c: 1
+ ts_5: 1527936087
+ authenticator_ad_c: 192.168.43.250
+ ***************************************************************************************
+ Sat Jun 02 18:41:38 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 4
+ lifetime_4: 8
+ ts_4: 1527936092
+ ticket_ad_c: 192.168.43.191
+ authenticator_id_c: 4
+ ts_5: 1527936092
+ authenticator_ad_c: 192.168.43.191
+ ***************************************************************************************
+ Sat Jun 02 18:41:38 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 5
+ lifetime_4: 8
+ ts_4: 1527936092
+ ticket_ad_c: 192.168.43.240
+ authenticator_id_c: 5
+ ts_5: 1527936097
+ authenticator_ad_c: ***************************************************************************************
+ 192.168.43.240
+ Sat Jun 02 18:41:38 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 2
+ lifetime_4: 8
+ ts_4: 1527936092
+ ticket_ad_c: 192.168.43.137
+ authenticator_id_c: 2
+ ts_5: 1527936095
+ authenticator_ad_c: 192.168.43.137
+ ***************************************************************************************
+ Sat Jun 02 18:41:39 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 3
+ lifetime_4: 8
+ ts_4: 1527936093
+ ticket_ad_c: 192.168.43.3
+ authenticator_id_c: 3
+ ts_5: 1527936099
+ authenticator_ad_c: 192.168.43.3
+ ***************************************************************************************
+ Sat Jun 02 19:26:25 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527938785
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_5: 1527938785
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 19:51:06 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527940266
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_5: 1527940266
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 19:53:47 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527940427
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_5: 1527940427
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 19:55:48 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527940548
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 1
+ ts_5: 1527940548
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 19:58:49 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527940729
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 1
+ ts_5: 1527940729
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 20:22:05 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527942125
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 1
+ ts_5: 1527942125
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 20:22:14 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 2
+ lifetime_4: 8
+ ts_4: 1527942134
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 2
+ ts_5: 1527942134
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 20:29:23 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527942563
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 1
+ ts_5: 1527942563
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 20:29:29 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 2
+ lifetime_4: 8
+ ts_4: 1527942569
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 2
+ ts_5: 1527942569
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 20:33:08 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527942788
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 1
+ ts_5: 1527942788
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 20:33:16 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 2
+ lifetime_4: 8
+ ts_4: 1527942796
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 2
+ ts_5: 1527942796
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 20:49:58 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527943798
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 1
+ ts_5: 1527943798
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 20:50:04 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 2
+ lifetime_4: 8
+ ts_4: 1527943804
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 2
+ ts_5: 1527943804
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 20:56:50 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527944210
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 1
+ ts_5: 1527944210
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 20:56:56 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 2
+ lifetime_4: 8
+ ts_4: 1527944216
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 2
+ ts_5: 1527944216
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 20:59:30 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527944370
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 1
+ ts_5: 1527944370
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 20:59:36 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 2
+ lifetime_4: 8
+ ts_4: 1527944376
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 2
+ ts_5: 1527944376
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 21:03:12 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527944592
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 1
+ ts_5: 1527944592
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 21:03:16 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 2
+ lifetime_4: 8
+ ts_4: 1527944596
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 2
+ ts_5: 1527944596
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 21:06:31 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527944791
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 1
+ ts_5: 1527944791
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 21:06:35 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 2
+ lifetime_4: 8
+ ts_4: 1527944795
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 2
+ ts_5: 1527944795
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 21:13:26 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527945206
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 1
+ ts_5: 1527945206
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 21:13:29 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 2
+ lifetime_4: 8
+ ts_4: 1527945209
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 2
+ ts_5: 1527945209
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 21:44:37 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527947077
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 1
+ ts_5: 1527947077
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 21:44:40 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 2
+ lifetime_4: 8
+ ts_4: 1527947080
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 2
+ ts_5: 1527947080
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 21:46:16 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527947175
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 1
+ ts_5: 1527947175
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 21:46:19 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 2
+ lifetime_4: 8
+ ts_4: 1527947179
+ ticket_ad_c: 172.29.159.175
+ authenticator_id_c: 2
+ ts_5: 1527947179
+ authenticator_ad_c: 172.29.159.175
+ ***************************************************************************************
+ Sat Jun 02 22:00:06 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527948006
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_5: 1527948006
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 22:00:11 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 2
+ lifetime_4: 8
+ ts_4: 1527948011
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 2
+ ts_5: 1527948011
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 22:03:47 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527948227
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_5: 1527948227
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 22:03:52 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 2
+ lifetime_4: 8
+ ts_4: 1527948232
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 2
+ ts_5: 1527948232
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 22:08:19 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527948499
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_5: 1527948499
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 22:08:23 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 2
+ lifetime_4: 8
+ ts_4: 1527948503
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 2
+ ts_5: 1527948503
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 22:09:14 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527948554
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_5: 1527948554
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 22:09:18 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 2
+ lifetime_4: 8
+ ts_4: 1527948558
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 2
+ ts_5: 1527948558
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 22:20:06 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527949206
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_5: 1527949206
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 22:20:11 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 2
+ lifetime_4: 8
+ ts_4: 1527949211
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 2
+ ts_5: 1527949211
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 22:26:52 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527949612
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_5: 1527949612
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 22:26:56 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 2
+ lifetime_4: 8
+ ts_4: 1527949616
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 2
+ ts_5: 1527949616
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 22:37:25 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527950245
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_5: 1527950245
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 22:37:30 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 2
+ lifetime_4: 8
+ ts_4: 1527950249
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 2
+ ts_5: 1527950250
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 22:45:28 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527950728
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_5: 1527950728
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 22:45:35 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 2
+ lifetime_4: 8
+ ts_4: 1527950735
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 2
+ ts_5: 1527950735
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 23:23:43 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527953023
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_5: 1527953023
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 23:23:47 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 2
+ lifetime_4: 8
+ ts_4: 1527953027
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 2
+ ts_5: 1527953027
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 23:26:03 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527953163
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_5: 1527953163
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sat Jun 02 23:26:07 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 2
+ lifetime_4: 8
+ ts_4: 1527953167
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 2
+ ts_5: 1527953167
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sun Jun 03 00:00:48 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527955248
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_5: 1527955248
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sun Jun 03 00:55:31 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527958531
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_5: 1527958531
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sun Jun 03 00:55:35 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 2
+ lifetime_4: 8
+ ts_4: 1527958535
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 2
+ ts_5: 1527958535
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sun Jun 03 01:03:08 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527958988
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_5: 1527958988
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sun Jun 03 01:03:12 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 2
+ lifetime_4: 8
+ ts_4: 1527958992
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 2
+ ts_5: 1527958992
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sun Jun 03 01:10:09 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527959408
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_5: 1527959408
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sun Jun 03 01:10:12 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 2
+ lifetime_4: 8
+ ts_4: 1527959412
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 2
+ ts_5: 1527959412
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sun Jun 03 01:19:26 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527959965
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_5: 1527959965
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sun Jun 03 01:19:30 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 2
+ lifetime_4: 8
+ ts_4: 1527959970
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 2
+ ts_5: 1527959970
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sun Jun 03 01:22:27 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527960147
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_5: 1527960147
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sun Jun 03 01:22:33 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 2
+ lifetime_4: 8
+ ts_4: 1527960153
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 2
+ ts_5: 1527960153
+ authenticator_ad_c: 127.0.0.1
+ ***************************************************************************************
+ Sun Jun 03 01:24:07 CST 2018
+ tag: CLIENT_TO_V
+ Key_C_V: 999
+ id_v: 1
+ id_c: 1
+ lifetime_4: 8
+ ts_4: 1527960247
+ ticket_ad_c: 127.0.0.1
+ authenticator_id_c: 1
+ ts_5: 1527960247
+ authenticator_ad_c: 127.0.0.1
+ 
